@@ -28,7 +28,7 @@ require (
 	github.com/parsiya/golnk v0.0.0-20221103095132-740a4c27c4ff
 	github.com/petermattis/goid v0.0.0-20240327183114-c42a807a84ba
 	github.com/robotn/gohook v0.41.0
-	github.com/rs/cors v1.10.1
+	github.com/rs/cors v1.11.0
 	github.com/sahilm/fuzzy v0.1.1
 	github.com/samber/lo v1.39.0
 	github.com/saracen/fastzip v0.1.11
