@@ -20,7 +20,7 @@
     "@mui/material": "^5.14.16",
     "@mui/styled-engine-sc": "6.0.0-alpha.4",
     "axios": "^1.6.0",
-    "lodash": "^4.17.21",
+    "lodash": "^4.18.1",
     "mousetrap": "^1.6.5",
     "pinyin-pro": "^3.17.0",
     "promise-deferred": "^2.0.4",
