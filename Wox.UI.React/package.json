@@ -19,7 +19,7 @@
     "@mui/lab": "5.0.0-alpha.153",
     "@mui/material": "^5.14.16",
     "@mui/styled-engine-sc": "6.0.0-alpha.4",
-    "axios": "^1.6.0",
+    "axios": "^1.15.2",
     "lodash": "^4.17.21",
     "mousetrap": "^1.6.5",
     "pinyin-pro": "^3.17.0",
